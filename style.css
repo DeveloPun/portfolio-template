@@ -299,6 +299,6 @@ button {
 .footer {
     padding: 20px;
     height: 70px;
-    background: var(--secondary-background);
+    background: var(--main-background);
     box-sizing: border-box;
 }
